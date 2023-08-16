@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365634184458",
+    "project_id": "beatz-b51ed",
+    "storage_bucket": "beatz-b51ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365634184458:android:64c5474740cebc4b0706f3",
+        "android_client_info": {
+          "package_name": "com.example.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365634184458-71t6oo8558k7e4rr9as1m5trk5bjunhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgoCY8otAFWqKbmJ6t0HAMgF9Ag_EqEv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365634184458-71t6oo8558k7e4rr9as1m5trk5bjunhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
